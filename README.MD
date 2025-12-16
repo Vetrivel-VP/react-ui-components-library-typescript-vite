@@ -61,12 +61,18 @@ pnpm dev
 
 ---
 
-## 🤝 Contributing
+## 🙏 Credits & Inspiration
 
-Contributions are welcome.
+This component is inspired by modern open-source UI patterns and best practices.
 
-1. Fork the repository
-2. Create a new branch
-3. Add your component inside `src/components`
-4. Include a README.md for the component
-5. Submit a pull request
+- (https://ui.shadcn.com)[shadcn/ui]
+  For setting a high standard in building accessible, composable, and developer-friendly React components using Tailwind CSS.
+
+- (https://www.radix-ui.com)[Radix-UI]  
+  For providing the powerful `@radix-ui/react-slot` primitive that enables polymorphic, flexible, and accessible component composition.
+
+All credit goes to the respective authors and maintainers for their excellent work in the open-source community.
+
+## 🙏 Credits
+
+Inspired by **shadcn/ui** and powered by **Radix UI Slot** for accessible and composable React components.
