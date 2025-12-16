@@ -65,10 +65,10 @@ pnpm dev
 
 This component is inspired by modern open-source UI patterns and best practices.
 
-- (https://ui.shadcn.com)[shadcn/ui]
+- [shadcn/ui](https://ui.shadcn.com)
   For setting a high standard in building accessible, composable, and developer-friendly React components using Tailwind CSS.
 
-- (https://www.radix-ui.com)[Radix-UI]  
+- [Radix-UI](https://www.radix-ui.com)  
   For providing the powerful `@radix-ui/react-slot` primitive that enables polymorphic, flexible, and accessible component composition.
 
 All credit goes to the respective authors and maintainers for their excellent work in the open-source community.
